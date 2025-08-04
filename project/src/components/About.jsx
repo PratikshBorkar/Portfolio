@@ -1,6 +1,5 @@
 import React from 'react';
 import { Code, Palette, Zap, Heart } from 'lucide-react';
-
 function About() {
   const highlights = [
     {
@@ -62,7 +61,7 @@ function About() {
               <div className="w-80 h-80 mx-auto relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-purple-600 to-pink-600 rounded-full blur-xl opacity-30"></div>
                 <img 
-                  src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400" 
+                  src="/img/Pratiksh.jpg" 
                   alt="Pratiksh Borkar" 
                   className="relative w-full h-full object-cover rounded-full border-4 border-white/20 shadow-2xl"
                 />
